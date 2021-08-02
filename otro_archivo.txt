@@ -1,0 +1,1 @@
+Archivo para probar código Python, para diferentes casos.
