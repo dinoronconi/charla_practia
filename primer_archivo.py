@@ -14,6 +14,10 @@ print('Vuelvo a modificar esta leyenda y le agrego esto: ',cantidad_palabras)
 
 print('otro print')
 
+print('otro print 2')
+
+print('otro print 3')
+
 # Versión usando context manager
 with open('archivo.txt', 'r') as f:
     contenido = f.read()
