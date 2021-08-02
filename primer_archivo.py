@@ -10,7 +10,9 @@ f.close()
 palabras = contenido.split(' ')
 cantidad_palabras = len(palabras)
 
-print('Vuelvo a modificar esta leyenda: ',cantidad_palabras)
+print('Vuelvo a modificar esta leyenda y le agrego esto: ',cantidad_palabras)
+
+print('otro print')
 
 # Versión usando context manager
 with open('archivo.txt', 'r') as f:
